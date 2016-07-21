@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" 
+     android:background="#ffffff">
+        <LinearLayout 
+            android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="150dip"
+                android:src="@drawable/front" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                   android:layout_marginTop="10dip"
+                android:text="@string/app_name"
+                android:layout_gravity="center"
+				android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+           
+              <Button
+        android:id="@+id/newaccount"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/newaccount"
+           android:layout_marginTop="20dip"  />
+
+    <Button
+        android:id="@+id/passcode"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+           android:layout_marginTop="10dip"
+        android:text="@string/user_passcode" />
+            <!-- Link to Registration Screen -->
+
+	     </LinearLayout>
+</ScrollView>

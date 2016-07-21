@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Find my buddy</string>
+    <string name="newaccount" translatable="false">Create a new account</string>
+    <string name="user_passcode" translatable="false">Type the passcode</string>
+    <string name="help" translatable="false">Help</string>  
+      <string name="user_name" translatable="false">Enter the name</string>
+    <string name="user_email" translatable="false">Enter the email address</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="help_title" translatable="false">Find my buddy</string>
+    <string name="help_desc" translatable="false">Create a new account by registring your name and email address.After registring, passcode would be sent to your email. Type the passcode and enter into the contact list. Add more buddies and track them. 
+        Happy Tracking ;) </string>
+        <string name="add_photo" translatable="false">Add photo</string>
+        <string name="add_contact" translatable="false">Add buddy</string>
+        <string name="refresh" translatable="false">Refresh</string>
+        <string name="mapview" translatable="false">Map view</string>
+                <string name="search" translatable="false">find my buddy</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="D:/adt-bundle-windows-x86_64-20130522/adt-bundle-windows-x86_64-20130522/sdk/add-ons/addon-google_apis-google-17/libs/maps.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="D:/adt-bundle-windows-x86_64-20130522/Findmybuddy/libs/gcm.jar"/>
+	<classpathentry kind="lib" path="D:/adt-bundle-windows-x86_64-20130522/Findmybuddy/libs/universal-image-loader-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
